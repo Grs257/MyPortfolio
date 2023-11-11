@@ -7,7 +7,7 @@ function About() {
           <div className="container m-auto px-6 text-gray-600 md:px-12 xl:px-6">
               <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                   <div className="md:5/12 lg:w-5/12">
-                       <img src="" alt="imag" />
+                       <img src="photo edited (3).png" alt="imag" />
                   </div>
                   <div className="md:7/12 lg:w-6/12">
                       <h2 className="text-2xl text-gray-900 font-bold md:text-4xl">
@@ -29,7 +29,7 @@ function About() {
                    <h2 className='me pl-64'>2018-2019</h2></div>
                     
                   <h2>10th</h2>
-                  <p>97.4%</p>
+                  <p>10 G.P.A</p>
                       </p>
                   
                    
